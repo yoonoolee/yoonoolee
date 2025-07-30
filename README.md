@@ -27,5 +27,5 @@ Welcome to my portfolio! Check out my recent projects. [LINK TO PROJECTS HERE]
 ### 💬 Connect 
 
 * [Linkedin](https://www.linkedin.com/in/averyaverylee/)
-* Email: [avery_lee@berkeley.edu](avery_lee@berkeley.edu) | [yoonoolee@gmail.com](yoonoolee@gmail.com)
+* Email: avery_lee@berkeley.edu | yoonoolee@gmail.com
 

@@ -1,4 +1,5 @@
 ## Hi there 👋🏻 
+![Banner](./avery_lee_banner.jpg)
 
 I'm Avery. Data Scientist with interests in machine learning models, data modelling, and data visualization. [TBD]
 

@@ -16,7 +16,7 @@ I'm currently pursuing a Master of Information Management and Systems @ UC Berke
 
 ### 📚 Projects
 
-Welcome to my portfolio! Check out my recent projects. Link to projects [here](https://github.com/yoonoolee/portfolio)
+Welcome to my portfolio! Check out my recent projects [here](https://github.com/yoonoolee/portfolio).
 
 ### ️🛠️ Tools
 

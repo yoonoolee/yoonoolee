@@ -1,5 +1,5 @@
 ## Hi there 👋🏻 
-![Banner](./avery_lee_banner.jpg)
+![Banner](./avery_lee_ml_banner.png)
 
 I'm Avery. Machine Learning Engineer with interests in machine learning models, data modelling, and data visualization. 
 

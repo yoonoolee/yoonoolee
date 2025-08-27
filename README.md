@@ -5,15 +5,10 @@ I'm Avery. Data Scientist with interests in machine learning models, data modell
 
 I'm currently pursuing a Master of Information Management and Systems @ UC Berkeley iSchool, focusing on Data Science and Machine Learning. 
 
-[THIS SECTION IS TBD]
-
-* Querying data using SQL.
-* Generate reports and perform ad‑hoc data analysis using SQL.
-* Developing dashboards on Tableau and Looker Studio.
-* Data analysis and reporting using Google Sheets and Excel.
+* Create machine learning models using Python.
+* Extract meaningful insights and patterns from complex data. 
+* Query and analyze data using SQL.
   
-[THIS SECTION IS TBD]
-
 ### 📚 Projects
 
 Welcome to my portfolio! Check out my recent projects [here](https://github.com/yoonoolee/portfolio).

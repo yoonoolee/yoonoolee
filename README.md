@@ -1,7 +1,7 @@
 ## Hi there 👋🏻 
 ![Banner](./avery_lee_banner.jpg)
 
-I'm Avery. Data Scientist with interests in machine learning models, data modelling, and data visualization. [TBD]
+I'm Avery. Machine Learning Engineer with interests in machine learning models, data modelling, and data visualization. 
 
 I'm currently pursuing a Master of Information Management and Systems @ UC Berkeley iSchool, focusing on Data Science and Machine Learning. 
 
@@ -15,7 +15,7 @@ Welcome to my portfolio! Check out my recent projects [here](https://github.com/
 
 ### ️🛠️ Tools
 
-* Languages: Python, SQL, R, Java, MATLAB
+* Languages: Python, SQL, R, Java, MATLAB, C++ 
 * Databases: Snowflake, MySQL, IBM DB2, Sybase IQ
 * Tools & Frameworks: Jupyter, VS Code, Google Colab, PyCharm, IntelliJ, Anaconda, Git (GitHub/GitLab), LaTeX
 

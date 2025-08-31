@@ -3,7 +3,7 @@
 
 I'm Avery. Machine Learning Engineer with interests in machine learning models, data modelling, and data visualization. 
 
-I'm currently pursuing a Master of Information Management and Systems @ UC Berkeley iSchool, focusing on Data Science and Machine Learning. 
+I'm currently pursuing a Master of Information Management and Systems @ UC Berkeley iSchool, specializing in Data Science and Machine Learning. 
 
 * Create machine learning models using Python.
 * Extract meaningful insights and patterns from complex data. 

@@ -11,6 +11,7 @@ I'm currently pursuing a Master of Information Management and Systems @ UC Berke
 
 ### Currently working on...
 [Cherrytree](https://cherrytree.app/) [Pre-launch]: B2B SaaS platform that assists Cofounders with their Cofounder agreements. 
+
 Fiction Unlimited [Pre-launch]: Friend group personal story generator App. Created with LLM and RAG systems.
   
 ### 📚 Recent Projects

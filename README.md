@@ -1,20 +1,16 @@
 ## Hi there 👋🏻 
 ![Banner](./avery_lee_ml_banner.png)
 
-I'm Avery. Machine Learning Engineer with interests in machine learning models, NLP, and analytics. 
+I'm Avery. Machine Learning Engineer interested in building AI systems that amplify human productivity and potential. 
 
-I'm currently pursuing a Master of Information Management and Systems @ UC Berkeley iSchool, specializing in Data Science and Machine Learning. 
-
-* Create machine learning models using Python.
-* Extract meaningful insights and patterns from complex and large-scale data. 
-* Query and analyze data using SQL.
+I'm currently pursuing a Master of Information Management and Systems @ UC Berkeley, specializing in Machine Learning and Data Science. 
 
 ### Currently working on...
-[Cherrytree](https://cherrytree.app/) [Pre-launch]: B2B SaaS platform that assists Cofounders with their Cofounder agreements. 
+Cofounder & CTO @ [Cherrytree](https://cherrytree.app/) [Pre-launch]: B2B SaaS platform that assists Cofounders generate comprehensive Cofounder agreements. AI-powered clause recommendation system coming soon.
 
-Fiction Unlimited [Pre-launch]: Friend group personal story generator App. Created with LLM and RAG systems.
-  
-### 📚 Recent Projects
+Co-creator of Fiction Unlimited [Pre-launch]: Personalized story generator App using NLP and LLM fine-tuning.
+
+### 📚 ML Projects
 
 Check out my recent projects [here](https://github.com/yoonoolee/portfolio/blob/main/README.md).
 

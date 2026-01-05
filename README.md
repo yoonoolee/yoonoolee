@@ -8,7 +8,7 @@ I'm currently pursuing a Master of Information Management and Systems @ UC Berke
 ### Currently working on...
 Cofounder & CTO @ [Cherrytree](https://cherrytree.app/) [Pre-launch]: B2B SaaS platform that assists Cofounders generate comprehensive Cofounder agreements. AI-powered clause recommendation system coming soon.
 
-Co-creator of Fiction Unlimited [Pre-launch]: Personalized story generator App using NLP and LLM fine-tuning.
+Co-creator of FriendFic [Pre-launch]: Personalized story generator App using NLP and LLM fine-tuning.
 
 ### 📚 ML Projects
 
